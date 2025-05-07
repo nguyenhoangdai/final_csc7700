@@ -13,6 +13,7 @@ Detects **Benign**, **Human‑Phish**, and **AI‑Phish** emails with
 
 ## Repo Layout
 
-tfidf_logreg.py baseline training / eval
-sbert_mlp.py SBERT + MLP training / eval
+tfidf_logreg.py baseline training
+
+sbert_mlp.py SBERT + MLP training
 
